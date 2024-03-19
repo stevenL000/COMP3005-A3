@@ -93,8 +93,10 @@ conn = connectServer()
 # getAllStudents()
 
 # updateStudentEmail(1, "john.doe.NEW@gmail.com")
+# getAllStudents()
     
 # deleteStudent(3)
+# getAllStudents()
 
 
 conn.close()
