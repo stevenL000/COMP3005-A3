@@ -2,7 +2,7 @@ Steven Lin
 101240382  
 COMP3005-B - Assignment 3 - Question 1  
 
-My video demonstration on YouTube: ___  
+My video demonstration on YouTube: https://www.youtube.com/watch?v=yCH8Gkew_sY  
 
 Database Instructions:
 1. Open PgAdmin  
